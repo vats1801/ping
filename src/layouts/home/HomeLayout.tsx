@@ -43,7 +43,7 @@ export default function DashboardLayout({ children }: Props) {
       <>
        
         <Box
-          sx={{display:"flex",width:"100%",height:"95vh",paddingLeft:"40px"}}
+          sx={{display:"flex",width:"100%",height:"100vh",margin:"0px"}}
           
         >
           {renderNavVertical}
